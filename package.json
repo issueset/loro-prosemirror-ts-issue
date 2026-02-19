@@ -1,0 +1,21 @@
+{
+  "name": "loro-prosemirror-ts-issue",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "loro-prosemirror": "^0.4.2",
+    "prosemirror-model": "^1.25.4"
+  }
+}
