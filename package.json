@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "loro-prosemirror": "^0.4.2",
-    "prosemirror-model": "^1.25.4"
+    "prosemirror-model": "^1.25.4",
+    "prosemirror-state": "^1.4.4"
   }
 }
